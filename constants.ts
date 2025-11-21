@@ -1,4 +1,4 @@
-export const APP_NAME = "FIFA TRACKER PRO";
+export const APP_NAME = "Torneos FIFA";
 
 export const MOCK_TEAMS = [
     "Real Madrid", "Man City", "Bayern Munich", "PSG", 
