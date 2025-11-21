@@ -1,0 +1,5 @@
+{
+  "name": "FIFA Tournament Tracker AI",
+  "description": "Una aplicación completa para gestionar torneos de FIFA con amigos. Soporta ligas, eliminatorias y modos híbridos, con análisis de partidos potenciado por IA.",
+  "requestFramePermissions": []
+}
